@@ -1,0 +1,9 @@
+document.getElementsByTagName('a')[0].onclick = function() {
+   var text = "text";
+    var csvData = 'data:application/txt;charset=utf-8,' + encodeURIComponent(text);
+    this.href = csvData;
+    this.target = '_blank';
+    this.download = 'txt.txt';
+}
+
+<a href=#>записать</a>

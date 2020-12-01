@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>WorkReports</title>
+<style type="text/css">
+<!--
+.menustyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #333333;
+}
+#rtitle {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+#rlist {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+#userf {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	font-weight: bold;
+	color: #00CCFF;
+}
+#statusf {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	color: #00CCFF;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="100%" height="100%" border="1" cellpadding="1" cellspacing="1">
+  <tr align="center" valign="middle" bgcolor="#003366">
+    <td height="20" colspan="2" bordercolor="#333333" bgcolor="#003366"><div id="userf">Пользователь</div></td>
+  </tr>
+  <tr>
+    <td width="13%" height="600" align="center" valign="top" bordercolor="#333333" bgcolor="#333333">
+<table width="100%" border="0" cellpadding="10" cellspacing="1">
+      <tr class="menustyle">
+        <td height="20"><div align="justify">Журналы выполненных работ по направлениям:</div></td>
+      </tr>
+      <tr align="left" valign="top" class="menustyle">
+        <td><div id="listreport"></div></td>
+      </tr>
+      <tr>
+        <td height="40">&nbsp;</td>
+      </tr>
+      <tr class="menustyle">
+        <td height="20"><div align="justify">Журналы выполненных работ по системам:</div></td>
+      </tr>
+      <tr align="left" valign="top" class="menustyle">
+        <td><div id="listsyst"></div></td>
+      </tr>
+</table>
+    </td>
+    <td width="87%" height="600"><table width="100%" height="100%" border="0" cellpadding="10" cellspacing="1">
+      <tr>
+          <td height="39" align="center" valign="middle"><div id="rtitle"><p><blink>Loading... Wait please!</blink></p></div></td>
+      </tr>
+      <tr>
+        <td height="39" align="center" valign="middle"><div id="rlink"></div></td>
+      </tr>
+      <tr align="center" valign="top">
+        <td>
+<div id="rlist">
+    <table width="100%" border="0" cellspacing="1" cellpadding="1">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Наименование</th>
+            <th scope="col">Комментарий</th>
+            <th scope="col">Дата</th>
+            <th scope="col">Исполнитель</th>
+        </tr>
+    </table>
+</div>
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="20" colspan="2" align="left" valign="middle" bordercolor="#333333" bgcolor="#003366"><div id="statusf">Status</div></td>
+  </tr>
+</table>
+<script src="//api.bitrix24.com/api/v1/"></script>
+<script src="js/bx24funct.js"> </script>
+</body>
+</html>

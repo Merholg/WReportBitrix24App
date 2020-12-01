@@ -1,0 +1,29 @@
+https://www.html5rocks.com/ru/tutorials/file/filesystem/
+http://htmlbook.ru/html/tr
+https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=99&TYPE=Y
+https://dev.1c-bitrix.ru/api_help/tasks/events/index.php
+https://dev.1c-bitrix.ru/api_d7/bitrix/tasks/index.php
+https://dev.1c-bitrix.ru/rest_help/tasks/task/deprecated/items/getlist.php
+https://javascript.ru/tutorial/foundation
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Number/toString
+https://learn.javascript.ru/array-methods
+https://learn.javascript.ru/dom-attributes-and-properties
+https://ru.wikibooks.org/wiki/Bitrix_24/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D0%B4%D0%B5%D0%BB%D0%BE%D0%BA
+http://htmlbook.ru/html/attr/onsubmit
+https://dev.1c-bitrix.ru/rest_help/tasks/fields.php
+https://training.bitrix24.com/rest_help/tasks/task/tasks/tasks_task_list.php
+https://bxapi.ru/
+https://ru.wikibooks.org/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B0_Bitrix_24
+https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=95&LESSON_ID=7787&LESSON_PATH=7785.7787
+
+HTML5 позволяет без лишних библиотек, напрямую работать с базами данных (на стороне клиента).
+
+Вот пример: http://www.tutorialspoint.com/html5/html5_web_sql.htm
+
+http://www.html5rocks.com/en/tutorials/webdatabase/todo/
+
+http://habrahabr.ru/post/84654/
+
+http://www.ibm.com/developerworks/ru/library/wa-html5db/index.html
+
+https://overcoder.net/q/34203/%D0%BA%D0%B0%D0%BA-%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-%D0%B8-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2-%D1%84%D0%B0%D0%B9%D0%BB-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-javascript
